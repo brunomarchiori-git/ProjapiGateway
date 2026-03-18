@@ -1,0 +1,18 @@
+🧾 Identidade da VM
+
+Nome: apigateway-estudo
+
+IP Externo: 35.231.84.193
+
+Zona: us-east1-b
+
+Projeto: apigateway
+
+👤 Acesso SSH
+
+Usuário válido: bmarchiori4
+
+Comando padrão:
+
+ssh -i ~/.ssh/google_compute_engine bmarchiori4@35.231.84.193
+
